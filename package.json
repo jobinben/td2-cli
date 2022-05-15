@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/jobinben/td-cli/issues"
   },
-  "homepage": "https://github.com/jobinben/td-cli#readme"
+  "homepage": "https://github.com/jobinben/td-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.2.0",
+    "ejs": "^3.1.8"
+  }
 }
