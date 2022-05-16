@@ -1,0 +1,8 @@
+import {<%=data.name%>Entity} from "@/entity/<%=data.name%>";
+import request from "@/helper/http";
+
+
+// example
+export function getList(param: BaseListParam): Promise<<%=data.name%>Entity> {
+  return request("<%=data.lowerName%>/list", param);
+}
