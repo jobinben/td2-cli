@@ -1,8 +1,11 @@
 {
-  "name": "td-cli",
-  "version": "0.0.1",
+  "name": "td2-cli",
+  "version": "0.0.2",
   "description": "一个脚手架",
   "main": "index.js",
+  "bin": {
+    "td2-cli": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +19,7 @@
     "cli"
   ],
   "author": "jobin",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jobinben/td-cli/issues"
   },
