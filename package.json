@@ -1,6 +1,6 @@
 {
   "name": "td2-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "一个脚手架",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jobinben/td-cli.git"
+    "url": "git+https://github.com/jobinben/td2-cli.git"
   },
   "keywords": [
     "td",
@@ -21,9 +21,9 @@
   "author": "jobin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jobinben/td-cli/issues"
+    "url": "https://github.com/jobinben/td2-cli/issues"
   },
-  "homepage": "https://github.com/jobinben/td-cli#readme",
+  "homepage": "https://github.com/jobinben/td2-cli#readme",
   "dependencies": {
     "chalk": "^5.0.1",
     "commander": "^9.2.0",
