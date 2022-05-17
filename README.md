@@ -17,7 +17,7 @@ npm install -g td-cli
 td-cli add LoginAccount
 ```
 
-2. 主入口为其他命名，或者是`List.vue`
+2. 主入口为其他命名，或者是`List.vue`, 默认为`Main.vue`
 ```shell
 td-cli add LoginAccount -m List
 ```

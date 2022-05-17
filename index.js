@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 const { program } = require('commander'); // include commander in git clone of commander repo
 
 const {createCommands} = require('./src/cmd/create');
