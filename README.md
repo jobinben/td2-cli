@@ -19,12 +19,12 @@ td2-cli --version
 1. 创建一个模块
    
 ```shell
-td2-cli add LoginAccount
+td2-cli add LoginAccountTest
 ```
 
 2. 主入口为其他命名，或者是`List.vue`, 默认为`Main.vue`
 ```shell
-td2-cli add LoginAccount -m List
+td2-cli add LoginAccountTest -m List
 ```
 
 3. 查看版本
